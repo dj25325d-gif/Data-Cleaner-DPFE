@@ -615,15 +615,7 @@ into a dataset that is:
 
 # 👤 Author
 
-**Your Name**
-
-🎓 Data Analytics / Data Science Portfolio
-
-🔗 **GitHub:** `YOUR_GITHUB_PROFILE_URL`
-
-💼 **LinkedIn:** `YOUR_LINKEDIN_PROFILE_URL`
-
-📧 **Email:** `YOUR_EMAIL_ADDRESS`
+**Dushyant V**
 
 ---
 
