@@ -514,11 +514,6 @@ The video demonstrates:
 - 🧼 Final cleaning strategy
 - 📊 Results and interpretation
 
-### 🔗 Video Link
-
-**[▶️ Watch the Project Walkthrough](YOUR_VIDEO_LINK_HERE)**
-
-> Replace `YOUR_VIDEO_LINK_HERE` with the final Google Drive / YouTube / approved video URL before submitting the GitHub repository.
 
 ---
 
